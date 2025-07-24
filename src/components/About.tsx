@@ -54,7 +54,7 @@ export default function About() {
           >
             <div className="relative">
               <img
-                src="/img/moh2.jpg"
+                src="/img/mohabout.jpeg"
                 alt="Mohamed Abukar - Founder"
                 className="rounded-2xl shadow-xl"
               />
